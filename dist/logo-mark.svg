@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Znak Monika Narożna</title>
+  <desc id="desc">Monogram MN w kształcie miękkiego rytmu</desc>
+  <rect width="96" height="96" rx="22" fill="#123C35"/>
+  <path d="M21 59V35c0-5 7-7 10-2l14 22 14-22c3-5 10-3 10 2v24" fill="none" stroke="#F6F0E5" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="74" cy="65" r="6" fill="#D99A3D"/>
+</svg>

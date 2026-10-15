@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Start" },
+    { "path": "/uslugi", "title": "Usługi" },
+    { "path": "/uslugi/:slug", "title": "Szczegóły usługi" },
+    { "path": "/o-mnie", "title": "O mnie" },
+    { "path": "/kontakt", "title": "Kontakt" }
+  ]
+}
